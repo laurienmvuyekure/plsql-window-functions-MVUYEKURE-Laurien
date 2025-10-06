@@ -350,3 +350,15 @@ the table from cmd sqlplus
 ## Academic Integrity Statement
 
 I affirm that this project is my original work. Any external references (textbooks, tutorials, documentation) have been properly cited. I did not receive unauthorized help, and this submission respects academic integrity policies.
+
+References
+https://www.youtube.com/watch?v=rIcB4zMYMas
+https://www.youtube.com/watch?v=7NBt0V8ebGk
+https://www.youtube.com/watch?v=nHEEyX_yDvo
+https://www.youtube.com/watch?v=Ww71knvhQ-s
+https://www.youtube.com/watch?v=cXhv4kmIzFw
+https://docs.oracle.com/en/database/oracle/oracle-database/19/lnpls/database-pl-sql-language-reference.pdf
+https://www.geeksforgeeks.org/plsql/pl-sql-tutorial/
+https://dev.mysql.com/doc/refman/8.4/en/window-functions.html
+https://www.freecodecamp.org/news/window-functions-in-sql/
+https://mode.com/sql-tutorial/sql-window-functions
